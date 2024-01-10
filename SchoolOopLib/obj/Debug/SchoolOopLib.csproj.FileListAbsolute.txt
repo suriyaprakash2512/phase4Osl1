@@ -1,0 +1,6 @@
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\bin\Debug\SchoolOopLib.dll
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\bin\Debug\SchoolOopLib.pdb
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\obj\Debug\SchoolOopLib.csproj.AssemblyReference.cache
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\obj\Debug\SchoolOopLib.csproj.CoreCompileInputs.cache
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\obj\Debug\SchoolOopLib.dll
+E:\simplilearn projects - phase4\OSL Project1\SchoolOopLib\obj\Debug\SchoolOopLib.pdb
